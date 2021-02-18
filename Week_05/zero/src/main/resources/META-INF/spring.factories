@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.zero.zz.zero.config.ZeroConfiguration

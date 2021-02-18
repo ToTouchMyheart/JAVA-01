@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "zero",
+      "type": "java.lang.String",
+      "description": "Description for zero."
+    },
+    {
+      "name": "prot",
+      "type": "java.lang.String",
+      "description": "Description for prot."
+    }
+  ] }

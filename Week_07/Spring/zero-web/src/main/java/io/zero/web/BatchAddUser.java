@@ -1,20 +1,22 @@
-package io.zero.zz.zero.jdbc;
-
-import io.zero.zz.zero.jdbc.dto.User;
+package io.zero.web;
 
 import java.sql.*;
 import java.util.List;
 import java.util.UUID;
+
+import io.zero.web.jdbc.HikariCPUtil;
+import io.zero.web.jdbc.JDBCUtil;
+import io.zero.web.jdbc.dto.User;
 
 /**
  * @Author zhurui
  * @Date 2021/2/9 12:57 下午
  * @Version 1.0
  */
-public class UserDao {
+public class BatchAddUser {
 
     public static void main(String[] args) {
-        UserDao userDao = new UserDao();
+        BatchAddUser userDao = new BatchAddUser();
         userDao.add();
     }
 

@@ -1,4 +1,4 @@
-package io.zero.zz.zero.jdbc;
+package io.zero.web.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

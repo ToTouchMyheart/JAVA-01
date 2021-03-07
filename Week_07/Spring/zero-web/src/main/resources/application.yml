@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: tdb, tyw
+  messages:
+    encoding: UTF-8
+
+server:
+  port: 8082
+  connectionTimeout: 180000
+
+logging:
+  level:
+    root: INFO
+    org.springframework: ERROR
+    org.mybatis: ERROR
+    io:
+      zero:
+        db: DEBUG
+

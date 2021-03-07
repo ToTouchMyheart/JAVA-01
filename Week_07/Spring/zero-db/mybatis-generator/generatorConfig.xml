@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<!-- command line: mvn mybatis-generator:generate -->
+<generatorConfiguration>
+  <context id="mysqlgenerator" targetRuntime="MyBatis3">
+    <property name="autoDelimitKeywords" value="true" />
+    <property name="beginningDelimiter" value="`" />
+    <property name="endingDelimiter" value="`" />
+
+    <plugin type="org.mybatis.generator.plugins.ToStringPlugin" />
+    <plugin type="org.mybatis.generator.plugins.EqualsHashCodePlugin" />
+
+    <!-- https://github.com/itfsw/mybatis-generator-plugin -->
+    <plugin type="com.itfsw.mybatis.generator.plugins.SelectOneByExamplePlugin" />
+    <plugin type="com.itfsw.mybatis.generator.plugins.SelectSelectivePlugin" />
+    <plugin type="com.itfsw.mybatis.generator.plugins.ExampleEnhancedPlugin" />
+    <plugin type="com.itfsw.mybatis.generator.plugins.ModelColumnPlugin" />
+    <plugin type="com.itfsw.mybatis.generator.plugins.BatchInsertPlugin" />
+
+    <plugin type="com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin">
+      <property name="logicalDeleteColumn" value="deleted" />
+      <property name="logicalDeleteValue" value="1" />
+      <property name="logicalUnDeleteValue" value="0" />
+    </plugin>
+
+    <plugin type="com.itfsw.mybatis.generator.plugins.LombokPlugin">
+      <property name="@Data" value="true" />
+      <property name="@Builder" value="false" />
+      <property name="@AllArgsConstructor" value="false" />
+      <property name="@NoArgsConstructor" value="false" />
+      <property name="@Accessors(chain = true)" value="true" />
+      <property name="supportSuperBuilderForIdea" value="false" />
+    </plugin>
+
+    <plugin type="com.itfsw.mybatis.generator.plugins.UpsertPlugin">
+      <property name="allowMultiQueries" value="false" />
+      <property name="allowBatchUpsert" value="true" />
+    </plugin>
+
+    <commentGenerator>
+      <property name="suppressDate" value="true" />
+    </commentGenerator>
+
+    <!-- connection config -->
+    <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+      connectionURL="jdbc:mysql://localhost:3306/zero?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC&amp;verifyServerCertificate=false&amp;useSSL=false&amp;allowPublicKeyRetrieval=true"
+      userId="root" password="zhurui1208" />
+
+    <javaTypeResolver>
+      <property name="useJSR310Types" value="true" />
+    </javaTypeResolver>
+
+    <javaModelGenerator targetPackage="io.zero.db.entity" targetProject="src/main/java" />
+    <sqlMapGenerator targetPackage="io.zero.db.dao" targetProject="src/main/resources" />
+    <javaClientGenerator type="XMLMAPPER" targetPackage="io.zero.db.dao" targetProject="src/main/java" />
+    <!-- table config -->
+    <table tableName="good">
+      <generatedKey column="id" sqlStatement="MySql" identity="true" />
+    </table>
+    <table tableName="user">
+      <generatedKey column="id" sqlStatement="MySql" identity="true" />
+    </table>
+    <table tableName="order">
+      <generatedKey column="id" sqlStatement="MySql" identity="true" />
+    </table>
+    <table tableName="order_detail">
+      <generatedKey column="id" sqlStatement="MySql" identity="true" />
+    </table>
+  </context>
+</generatorConfiguration>

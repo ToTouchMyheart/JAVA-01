@@ -1,0 +1,12 @@
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/account/service/AccountServiceProto.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/account/service/AccountResponseOrBuilder.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/account/service/AccountResponse.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/account/service/AccountRequest.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/inventory/service/InventoryServiceGrpc.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/inventory/service/InventoryServiceProto.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/inventory/service/InventoryRequest.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/inventory/service/InventoryRequestOrBuilder.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/inventory/service/InventoryResponseOrBuilder.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/inventory/service/InventoryResponse.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/account/service/AccountRequestOrBuilder.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-grpc/hmily-demo-grpc-common/src/main/java/org/dromara/hmily/demo/grpc/account/service/AccountServiceGrpc.java

@@ -1,0 +1,13 @@
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/inventory/mapper/InventoryMapper.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/order/mapper/OrderMapper.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/inventory/dto/InventoryDTO.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/inventory/api/InventoryService.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/order/entity/Order.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/inventory/entity/InventoryDO.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/entity/AccountDO.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/dto/AccountNestedDTO.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/mapper/AccountMapper.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/api/AccountService.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/dto/AccountDTO.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/order/enums/OrderStatusEnum.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/api/InlineService.java

@@ -1,0 +1,4 @@
+org/dromara/hmily/demo/springcloud/inventory/controller/InventoryController.class
+org/dromara/hmily/demo/springcloud/inventory/service/impl/InventoryServiceImpl.class
+org/dromara/hmily/demo/springcloud/inventory/service/InventoryService.class
+org/dromara/hmily/demo/springcloud/inventory/SpringCloudHmilyInventoryApplication.class

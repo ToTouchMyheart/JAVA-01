@@ -1,0 +1,13 @@
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/servant/inventoryapp/InventoryPrx.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/service/OrderService.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/service/PaymentService.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/TarsHmilyOrderApplication.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/servant/accountapp/AccountPrx.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/servant/accountapp/AccountPrxCallback.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/service/impl/OrderServiceImpl.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/servant/orderapp/impl/OrderServantImpl.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/service/impl/PaymentServiceImpl.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/configuration/SwaggerConfig.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/controller/OrderController.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/servant/orderapp/OrderServant.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-tars/hmily-demo-tars-springboot-order/src/main/java/org/dromara/hmily/demo/tars/order/servant/inventoryapp/InventoryPrxCallback.java

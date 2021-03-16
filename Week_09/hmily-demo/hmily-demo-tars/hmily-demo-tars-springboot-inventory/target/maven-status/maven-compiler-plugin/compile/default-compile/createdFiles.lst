@@ -1,0 +1,5 @@
+org/dromara/hmily/demo/tars/inventory/servant/inventoryapp/impl/InventoryServantImpl.class
+org/dromara/hmily/demo/tars/inventory/service/InventoryService.class
+org/dromara/hmily/demo/tars/inventory/servant/inventoryapp/InventoryServant.class
+org/dromara/hmily/demo/tars/inventory/TarsHmilyInventoryApplication.class
+org/dromara/hmily/demo/tars/inventory/service/impl/InventoryServiceImpl.class

@@ -1,0 +1,4 @@
+org/dromara/hmily/demo/grpc/inventory/service/InventoryServiceBeanImpl.class
+org/dromara/hmily/demo/grpc/inventory/service/InventoryServiceImpl.class
+org/dromara/hmily/demo/grpc/inventory/InventoryServiceBean.class
+org/dromara/hmily/demo/grpc/inventory/GrpcHmilyInventoryApplication.class

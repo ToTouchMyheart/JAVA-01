@@ -1,0 +1,8 @@
+org/dromara/hmily/demo/brpc/order/service/impl/OrderServiceImpl.class
+org/dromara/hmily/demo/brpc/order/service/impl/PaymentServiceImpl.class
+org/dromara/hmily/demo/brpc/order/BrpcHmilyOrderApplication.class
+org/dromara/hmily/demo/brpc/order/configuration/SwaggerConfig.class
+org/dromara/hmily/demo/brpc/order/service/OrderService.class
+org/dromara/hmily/demo/brpc/order/configuration/HmilyTacDatasourceConfig.class
+org/dromara/hmily/demo/brpc/order/service/PaymentService.class
+org/dromara/hmily/demo/brpc/order/controller/OrderController.class

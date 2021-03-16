@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo.iml" filepath="$PROJECT_DIR$/hmily-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc.iml" filepath="$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc-account/hmily-demo-brpc-account.iml" filepath="$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc-account/hmily-demo-brpc-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc-inventory/hmily-demo-brpc-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc-inventory/hmily-demo-brpc-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc-order/hmily-demo-brpc-order.iml" filepath="$PROJECT_DIR$/hmily-demo-brpc/hmily-demo-brpc-order/hmily-demo-brpc-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-common/hmily-demo-common.iml" filepath="$PROJECT_DIR$/hmily-demo-common/hmily-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/hmily-demo-dubbo-account.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/hmily-demo-dubbo-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-central/hmily-demo-dubbo-central.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-central/hmily-demo-dubbo-central.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-foreigncurrency.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-foreigncurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/hmily-demo-dubbo-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/hmily-demo-dubbo-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/hmily-demo-dubbo-order.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/hmily-demo-dubbo-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-rmb/hmily-demo-dubbo-rmb.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-rmb/hmily-demo-dubbo-rmb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/hmily-demo-dubbo-usd.iml" filepath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/hmily-demo-dubbo-usd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc.iml" filepath="$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-account/hmily-demo-grpc-account.iml" filepath="$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-account/hmily-demo-grpc-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-common/hmily-demo-grpc-common.iml" filepath="$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-common/hmily-demo-grpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-inventory/hmily-demo-grpc-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-inventory/hmily-demo-grpc-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-order/hmily-demo-grpc-order.iml" filepath="$PROJECT_DIR$/hmily-demo-grpc/hmily-demo-grpc-order/hmily-demo-grpc-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan.iml" filepath="$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan-account/hmily-demo-motan-account.iml" filepath="$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan-account/hmily-demo-motan-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan-inventory/hmily-demo-motan-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan-inventory/hmily-demo-motan-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan-order/hmily-demo-motan-order.iml" filepath="$PROJECT_DIR$/hmily-demo-motan/hmily-demo-motan-order/hmily-demo-motan-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa.iml" filepath="$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa-account/hmily-demo-sofa-account.iml" filepath="$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa-account/hmily-demo-sofa-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa-inventory/hmily-demo-sofa-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa-inventory/hmily-demo-sofa-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa-order/hmily-demo-sofa-order.iml" filepath="$PROJECT_DIR$/hmily-demo-sofa/hmily-demo-sofa-order/hmily-demo-sofa-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud.iml" filepath="$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-account/hmily-demo-springcloud-account.iml" filepath="$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-account/hmily-demo-springcloud-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-eureka/hmily-demo-springcloud-eureka.iml" filepath="$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-eureka/hmily-demo-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-inventory/hmily-demo-springcloud-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-inventory/hmily-demo-springcloud-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-order/hmily-demo-springcloud-order.iml" filepath="$PROJECT_DIR$/hmily-demo-springcloud/hmily-demo-springcloud-order/hmily-demo-springcloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars.iml" filepath="$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars-springboot-account/hmily-demo-tars-springboot-account.iml" filepath="$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars-springboot-account/hmily-demo-tars-springboot-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars-springboot-inventory/hmily-demo-tars-springboot-inventory.iml" filepath="$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars-springboot-inventory/hmily-demo-tars-springboot-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars-springboot-order/hmily-demo-tars-springboot-order.iml" filepath="$PROJECT_DIR$/hmily-demo-tars/hmily-demo-tars-springboot-order/hmily-demo-tars-springboot-order.iml" />
+    </modules>
+  </component>
+</project>

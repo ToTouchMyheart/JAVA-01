@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="916f0b7c-eca6-42c8-a370-138b3f185d45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/api/CurrencyAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-common/src/main/java/org/dromara/hmily/demo/common/account/mapper/CurrencyAccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-central/src/main/java/org/dromara/hmily/demo/dubbo/order/service/impl/CentralOrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/java/org/dromara/hmily/demo/dubbo/inventory/DubboHmilyInventoryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/java/org/dromara/hmily/demo/dubbo/inventory/config/HmilyTacDatasourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/java/org/dromara/hmily/demo/dubbo/inventory/service/InventoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/resources/hmily.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmily-demo-dubbo-foreigncurrency/hmily-demo-dubbo-usd/src/main/resources/spring-dubbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/src/main/resources/hmily.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/src/main/resources/hmily.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/src/main/resources/spring-dubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-account/src/main/resources/spring-dubbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/resources/hmily.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/resources/hmily.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/resources/spring-dubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/resources/spring-dubbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/java/org/dromara/hmily/demo/dubbo/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/java/org/dromara/hmily/demo/dubbo/order/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/resources/hmily.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/resources/hmily.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/resources/spring-dubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-order/src/main/resources/spring-dubbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pmiVrhEIMqc7AKdDU1eq1sgh7d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27157652" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.dromara.hmily.demo.common.account.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DubboHmilyInventoryApplication (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrpcHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-brpc-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.brpc.account.BrpcHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrpcHmilyInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-brpc-inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.brpc.inventory.BrpcHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrpcHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-brpc-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.brpc.order.BrpcHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-dubbo-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.dubbo.account.DubboHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboHmilyInventoryApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hmily-demo-dubbo-usd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dromara.hmily.demo.dubbo.inventory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.dubbo.inventory.DubboHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboHmilyInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-dubbo-inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.dubbo.inventory.DubboHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboHmilyOrderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hmily-demo-dubbo-central" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dromara.hmily.demo.dubbo.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.dubbo.order.DubboHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-dubbo-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.dubbo.order.DubboHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-springcloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.springcloud.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrpcHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-grpc-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.grpc.account.GrpcHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrpcHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-grpc-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.grpc.order.GrpcHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotanHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-motan-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.motan.account.MotanHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotanHmilyInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-motan-inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.motan.inventory.MotanHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotanHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-motan-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.motan.order.MotanHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofaHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-sofa-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.sofa.account.SofaHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofaHmilyInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-sofa-inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.sofa.inventory.SofaHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofaHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-sofa-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.sofa.order.SofaHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-springcloud-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.springcloud.account.SpringCloudHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudHmilyInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-springcloud-inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.springcloud.inventory.SpringCloudHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-springcloud-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.springcloud.order.SpringCloudHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TarsHmilyAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-tars-springboot-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.tars.account.TarsHmilyAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TarsHmilyInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-tars-springboot-inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.tars.inventory.TarsHmilyInventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TarsHmilyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-tars-springboot-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.dromara.hmily.demo.tars.order.TarsHmilyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DubboHmilyInventoryApplication (1)" />
+        <item itemvalue="Spring Boot.DubboHmilyOrderApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="916f0b7c-eca6-42c8-a370-138b3f185d45" name="Default Changelist" comment="" />
+      <created>1615794693748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615794693748</updated>
+      <workItem from="1615794695341" duration="9307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1147" y="-6" key="#com.intellij.ide.util.MemberChooser" timestamp="1615871539491">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1147" y="-6" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615871539491" />
+    <state x="-1920" y="-270" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615873266309">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1920" y="-270" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615873266309" />
+    <state x="-1222" y="35" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615871271747">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="35" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615871271747" />
+    <state x="-1197" y="-9" width="1042" height="604" key="#xdebugger.evaluate" timestamp="1615795962272">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1197" y="-9" width="1042" height="604" key="#xdebugger.evaluate/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615795962272" />
+    <state width="449" height="466" key="DebuggerActiveHint" timestamp="1615795969516">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state width="449" height="466" key="DebuggerActiveHint/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615795969516" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom" timestamp="1615884030381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615871754339" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615884030381" />
+    <state width="1878" height="294" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984686" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center" timestamp="1615884030380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615871754338" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615884030380" />
+    <state width="1878" height="294" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984685" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left" timestamp="1615884030379">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615871754337" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615884030379" />
+    <state width="1878" height="294" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984684" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right" timestamp="1615884030380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615871754338" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615884030380" />
+    <state width="1878" height="294" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984685" />
+    <state width="1398" height="234" key="GridCell.Tab.1.bottom" timestamp="1615884030384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615864001496" />
+    <state width="1398" height="234" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615884030384" />
+    <state width="1878" height="294" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984688" />
+    <state width="1398" height="234" key="GridCell.Tab.1.center" timestamp="1615884030383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615864001494" />
+    <state width="1398" height="234" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1615884030383" />
+    <state width="1878" height="294" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984687" />
+    <state width="1398" height="234" key="GridCell.Tab.1.left" timestamp="1615884030382">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615864001493" />
+    <state width="1398" height="234" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1615884030382" />
+    <state width="1878" height="294" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984687" />
+    <state width="1398" height="234" key="GridCell.Tab.1.right" timestamp="1615884030383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="294" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615864001495" />
+    <state width="1398" height="234" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1615884030383" />
+    <state width="1878" height="294" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-245.1920.986@-1920.-245.1920.986" timestamp="1615796984687" />
+    <state width="1878" height="364" key="GridCell.Tab.2.bottom" timestamp="1615796072582">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.2.bottom/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615796072582" />
+    <state width="1878" height="364" key="GridCell.Tab.2.center" timestamp="1615796072578">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.2.center/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615796072578" />
+    <state width="1878" height="364" key="GridCell.Tab.2.left" timestamp="1615796072577">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.2.left/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615796072577" />
+    <state width="1878" height="364" key="GridCell.Tab.2.right" timestamp="1615796072581">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="364" key="GridCell.Tab.2.right/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615796072581" />
+    <state x="-1327" y="-13" key="NewModule_or_Project.wizard" timestamp="1615864234933">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1327" y="-13" key="NewModule_or_Project.wizard/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615864234933" />
+    <state x="-1472" y="-138" key="SettingsEditor" timestamp="1615864237248">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1472" y="-138" key="SettingsEditor/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615864237248" />
+    <state x="-1230" y="34" width="540" height="524" key="StructurePopup" timestamp="1615873402454">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="34" width="540" height="524" key="StructurePopup/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615873402454" />
+    <state x="-1441" y="17" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615795712183">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1441" y="17" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615795712183" />
+    <state x="-962" y="-65" width="858" height="548" key="find.popup" timestamp="1615863531000">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-962" y="-65" width="858" height="548" key="find.popup/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615863531000" />
+    <state x="-1295" y="127" key="run.anything.popup" timestamp="1615795692418">
+      <screen x="-1920" y="-270" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="127" key="run.anything.popup/0.0.1440.900/-1920.-270.1920.1080@-1920.-270.1920.1080" timestamp="1615795692418" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/hmily-demo-dubbo/hmily-demo-dubbo-inventory/src/main/java/org/dromara/hmily/demo/dubbo/inventory/DubboHmilyInventoryApplication.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/dromara/hmily-tac-metadata/2.1.2-SNAPSHOT/hmily-tac-metadata-2.1.2-SNAPSHOT-sources.jar!/org/dromara/hmily/tac/metadata/HmilyMetaDataManager.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/dromara/hmily-tac-metadata/2.1.2-SNAPSHOT/hmily-tac-metadata-2.1.2-SNAPSHOT-sources.jar!/org/dromara/hmily/tac/metadata/loader/ColumnMetaDataLoader.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/dromara/hmily-spi/2.1.2-SNAPSHOT/hmily-spi-2.1.2-SNAPSHOT-sources.jar!/org/dromara/hmily/spi/ExtensionLoaderFactory.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/dromara/hmily-spi/2.1.2-SNAPSHOT/hmily-spi-2.1.2-SNAPSHOT-sources.jar!/org/dromara/hmily/spi/ExtensionLoader.java</url>
+          <line>244</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/dromara/hmily-spi/2.1.2-SNAPSHOT/hmily-spi-2.1.2-SNAPSHOT-sources.jar!/org/dromara/hmily/spi/ExtensionLoader.java</url>
+          <line>296</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

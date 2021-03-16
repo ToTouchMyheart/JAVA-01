@@ -1,0 +1,12 @@
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/client/InventoryClient.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/client/InventoryHystrix.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/controller/OrderController.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/client/AccountClient.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/service/impl/OrderServiceImpl.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/client/AccountHystrix.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/configuration/MyConfiguration.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/service/OrderService.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/SpringCloudHmilyOrderApplication.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/service/impl/PaymentServiceImpl.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/service/PaymentService.java
+/Users/zhurui/hmily/hmily-demo/hmily-demo-springcloud/hmily-demo-springcloud-order/src/main/java/org/dromara/hmily/demo/springcloud/order/configuration/SwaggerConfig.java

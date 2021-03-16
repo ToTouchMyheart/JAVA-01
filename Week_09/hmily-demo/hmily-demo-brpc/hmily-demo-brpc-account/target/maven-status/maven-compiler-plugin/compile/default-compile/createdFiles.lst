@@ -1,0 +1,4 @@
+org/dromara/hmily/demo/brpc/account/service/AccountServiceImpl.class
+org/dromara/hmily/demo/brpc/account/BrpcHmilyAccountApplication.class
+org/dromara/hmily/demo/brpc/account/service/InlineServiceImpl.class
+org/dromara/hmily/demo/brpc/account/config/HmilyTacDatasourceConfig.class

@@ -1,0 +1,6 @@
+org/dromara/hmily/demo/motan/account/configuration/MotanServerConfig.class
+org/dromara/hmily/demo/motan/account/configuration/MotanConfig.class
+org/dromara/hmily/demo/motan/account/service/AccountServiceImpl.class
+org/dromara/hmily/demo/motan/account/service/InlineServiceImpl.class
+org/dromara/hmily/demo/motan/account/configuration/MotanClientConfig.class
+org/dromara/hmily/demo/motan/account/MotanHmilyAccountApplication.class

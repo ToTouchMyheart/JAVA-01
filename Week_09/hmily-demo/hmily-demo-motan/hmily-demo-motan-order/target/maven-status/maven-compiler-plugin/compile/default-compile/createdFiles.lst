@@ -1,0 +1,10 @@
+org/dromara/hmily/demo/motan/order/controller/OrderController.class
+org/dromara/hmily/demo/motan/order/MotanHmilyOrderApplication.class
+org/dromara/hmily/demo/motan/order/service/impl/OrderServiceImpl.class
+org/dromara/hmily/demo/motan/order/service/OrderService.class
+org/dromara/hmily/demo/motan/order/service/impl/PaymentServiceImpl.class
+org/dromara/hmily/demo/motan/order/configuration/SwaggerConfig.class
+org/dromara/hmily/demo/motan/order/configuration/MotanClientConfig.class
+org/dromara/hmily/demo/motan/order/configuration/MotanConfig.class
+org/dromara/hmily/demo/motan/order/configuration/MotanServerConfig.class
+org/dromara/hmily/demo/motan/order/service/PaymentService.class

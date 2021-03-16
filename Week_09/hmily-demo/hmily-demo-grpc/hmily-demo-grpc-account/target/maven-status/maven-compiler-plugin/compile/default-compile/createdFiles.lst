@@ -1,0 +1,4 @@
+org/dromara/hmily/demo/grpc/account/service/AccountServiceImpl.class
+org/dromara/hmily/demo/grpc/account/service/AccountServiceBeanImpl.class
+org/dromara/hmily/demo/grpc/account/GrpcHmilyAccountApplication.class
+org/dromara/hmily/demo/grpc/account/AccountServiceBean.class

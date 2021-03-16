@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hmily-demo-grpc-order" />
+        <module name="hmily-demo-tars-springboot-account" />
+        <module name="hmily-demo-dubbo-usd" />
+        <module name="hmily-demo-dubbo-rmb" />
+        <module name="hmily-demo-dubbo-central" />
+        <module name="hmily-demo-springcloud-order" />
+        <module name="hmily-demo-brpc-order" />
+        <module name="hmily-demo-motan-account" />
+        <module name="hmily-demo-dubbo-order" />
+        <module name="hmily-demo-tars-springboot-order" />
+        <module name="hmily-demo-grpc-inventory" />
+        <module name="hmily-demo-dubbo-account" />
+        <module name="hmily-demo-sofa-order" />
+        <module name="hmily-demo-tars-springboot-inventory" />
+        <module name="hmily-demo-springcloud-eureka" />
+        <module name="hmily-demo-springcloud-inventory" />
+        <module name="hmily-demo-dubbo-inventory" />
+        <module name="hmily-demo-brpc-inventory" />
+        <module name="hmily-demo-sofa-inventory" />
+        <module name="hmily-demo-grpc-account" />
+        <module name="hmily-demo-motan-order" />
+        <module name="hmily-demo-grpc-common" />
+        <module name="hmily-demo-brpc-account" />
+        <module name="hmily-demo-sofa-account" />
+        <module name="hmily-demo-common" />
+        <module name="hmily-demo-springcloud-account" />
+        <module name="hmily-demo-motan-inventory" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hmily-demo" target="1.8" />
+      <module name="hmily-demo-brpc" target="1.8" />
+      <module name="hmily-demo-brpc-account" target="1.8" />
+      <module name="hmily-demo-brpc-inventory" target="1.8" />
+      <module name="hmily-demo-brpc-order" target="1.8" />
+      <module name="hmily-demo-common" target="1.8" />
+      <module name="hmily-demo-dubbo" target="1.8" />
+      <module name="hmily-demo-dubbo-account" target="1.8" />
+      <module name="hmily-demo-dubbo-central" target="1.8" />
+      <module name="hmily-demo-dubbo-foreigncurrency" target="1.8" />
+      <module name="hmily-demo-dubbo-inventory" target="1.8" />
+      <module name="hmily-demo-dubbo-inventory (1)" target="1.8" />
+      <module name="hmily-demo-dubbo-order" target="1.8" />
+      <module name="hmily-demo-dubbo-rmb" target="1.8" />
+      <module name="hmily-demo-dubbo-usd" target="1.8" />
+      <module name="hmily-demo-grpc" target="1.8" />
+      <module name="hmily-demo-grpc-account" target="1.8" />
+      <module name="hmily-demo-grpc-common" target="1.8" />
+      <module name="hmily-demo-grpc-inventory" target="1.8" />
+      <module name="hmily-demo-grpc-order" target="1.8" />
+      <module name="hmily-demo-motan" target="1.8" />
+      <module name="hmily-demo-motan-account" target="1.8" />
+      <module name="hmily-demo-motan-inventory" target="1.8" />
+      <module name="hmily-demo-motan-order" target="1.8" />
+      <module name="hmily-demo-sofa" target="1.8" />
+      <module name="hmily-demo-sofa-account" target="1.8" />
+      <module name="hmily-demo-sofa-inventory" target="1.8" />
+      <module name="hmily-demo-sofa-order" target="1.8" />
+      <module name="hmily-demo-springcloud" target="1.8" />
+      <module name="hmily-demo-springcloud-account" target="1.8" />
+      <module name="hmily-demo-springcloud-eureka" target="1.8" />
+      <module name="hmily-demo-springcloud-inventory" target="1.8" />
+      <module name="hmily-demo-springcloud-order" target="1.8" />
+      <module name="hmily-demo-tars" target="1.8" />
+      <module name="hmily-demo-tars-springboot-account" target="1.8" />
+      <module name="hmily-demo-tars-springboot-inventory" target="1.8" />
+      <module name="hmily-demo-tars-springboot-order" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hmily-demo-brpc-account" options="-parameters" />
+      <module name="hmily-demo-brpc-inventory" options="-parameters" />
+      <module name="hmily-demo-brpc-order" options="-parameters" />
+      <module name="hmily-demo-common" options="-parameters" />
+      <module name="hmily-demo-dubbo-account" options="-parameters" />
+      <module name="hmily-demo-dubbo-central" options="-parameters" />
+      <module name="hmily-demo-dubbo-inventory" options="-parameters" />
+      <module name="hmily-demo-dubbo-inventory (1)" options="-parameters" />
+      <module name="hmily-demo-dubbo-order" options="-parameters" />
+      <module name="hmily-demo-dubbo-rmb" options="-parameters" />
+      <module name="hmily-demo-dubbo-usd" options="-parameters" />
+      <module name="hmily-demo-grpc-account" options="-parameters" />
+      <module name="hmily-demo-grpc-common" options="-parameters" />
+      <module name="hmily-demo-grpc-inventory" options="-parameters" />
+      <module name="hmily-demo-grpc-order" options="-parameters" />
+      <module name="hmily-demo-motan-account" options="-parameters" />
+      <module name="hmily-demo-motan-inventory" options="-parameters" />
+      <module name="hmily-demo-motan-order" options="-parameters" />
+      <module name="hmily-demo-sofa-account" options="-parameters" />
+      <module name="hmily-demo-sofa-inventory" options="-parameters" />
+      <module name="hmily-demo-sofa-order" options="-parameters" />
+      <module name="hmily-demo-springcloud-account" options="-parameters" />
+      <module name="hmily-demo-springcloud-eureka" options="-parameters" />
+      <module name="hmily-demo-springcloud-inventory" options="-parameters" />
+      <module name="hmily-demo-springcloud-order" options="-parameters" />
+      <module name="hmily-demo-tars-springboot-account" options="-parameters" />
+      <module name="hmily-demo-tars-springboot-inventory" options="-parameters" />
+      <module name="hmily-demo-tars-springboot-order" options="-parameters" />
+    </option>
+  </component>
+</project>

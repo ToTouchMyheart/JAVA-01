@@ -1,0 +1,3 @@
+org/dromara/hmily/demo/brpc/inventory/BrpcHmilyInventoryApplication.class
+org/dromara/hmily/demo/brpc/inventory/service/InventoryServiceImpl.class
+org/dromara/hmily/demo/brpc/inventory/config/HmilyTacDatasourceConfig.class

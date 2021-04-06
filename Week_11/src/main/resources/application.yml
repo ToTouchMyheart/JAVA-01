@@ -1,0 +1,16 @@
+redis:
+  cluster:
+    nodes: 172.20.47.234:7000,172.20.47.234:7001,172.20.47.234:7002,172.20.47.98:7000,172.20.47.98:7001,172.20.47.98:7002
+    maxRedirects: 3
+  timeout: 0
+  pool-config:
+    max-active: 200
+    max-wait: 1
+    max-idle: 8
+    min-idle: 0
+    timeout: 10
+    store-type: none
+  password: yy!QAZxsw2
+  connectionTimeout: 5000
+  soTimeout: 2000
+  maxAttempts: 1000

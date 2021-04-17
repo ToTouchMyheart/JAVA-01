@@ -1,0 +1,11 @@
+spring:
+  kafka:
+    bootstrap-servers: 172.20.47.58:9092,172.20.47.234:9092,172.20.47.98:9092
+    consumer:
+      group-id: zzero
+      auto-offset-reset: latest
+    producer:
+      retries: 0
+      acks: all
+    listener:
+      missing-topics-fatal: false
